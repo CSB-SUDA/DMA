@@ -16,4 +16,12 @@ The network weighted process under different conditions is shown in the followin
 <div align=center>
   <img width="800" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/twonetwork.png"/>
 </div>
+
+<div align=center>
+  <img width="400" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/changeDetail.png"/>
+</div>
+
+<div align=center>
+  <img width="1000" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/pipline.png"/>
+</div>
 **The tool is developed by Xingyi Liu, for questions and comments please contact email--liuxingyisw@outlook.com**
