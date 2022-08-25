@@ -14,7 +14,7 @@ The network weighted process under different conditions is shown in the followin
 </div>
 <p align=center>The construction flow of weighted network under different conditions</p>
 
-Due to the strengthening and weakening of the interaction in the network, the module division of the network changes
+Due to the strengthening and weakening of the interaction in the network, the module division of the network changes.
 <div align=center>
   <img width="800" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/twonetwork.png"/>
 </div>
@@ -25,12 +25,13 @@ What is the biology functional impact of the remodule caused by the rewiring of 
   <img width="400" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/changeDetail.png"/>
 </div>
 <p align=center>Changes between modules between no-LNM and LNM.</p>
-
+We propose a highlighting method for identifying dynamic core modules using the differential module approach.
 <div align=center>
   <img width="1000" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/pipline.png"/>
 </div>
-
+<p align=center>Simplified process, detailed process reference article</p>
 ##
 ##
 ##
-**The tool is developed by Xingyi Liu, for questions and comments please contact email--liuxingyisw@outlook.com**
+The video at this address for detailed code execution:http://121.5.52.202/MDAvideo/.
+**The R scripts is developed by Xingyi Liu, for questions and comments please contact email--liuxingyisw@outlook.com**
