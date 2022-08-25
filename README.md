@@ -34,4 +34,5 @@ We propose a highlighting method for identifying dynamic core modules using the 
 ##
 ##
 The video at this address for detailed code execution:http://121.5.52.202/MDAvideo/.
+
 **The R scripts is developed by Xingyi Liu, for questions and comments please contact email--liuxingyisw@outlook.com**
