@@ -20,11 +20,17 @@ Due to the strengthening and weakening of the interaction in the network, the mo
 </div>
 <p align=center>Division of weighted network modules.</p>
 
+What is the biology functional impact of the remodule caused by the rewiring of these modules?We need to annotate these changes at the module level。
 <div align=center>
   <img width="400" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/changeDetail.png"/>
 </div>
+<p align=center>Changes between modules between no-LNM and LNM.</p>
 
 <div align=center>
   <img width="1000" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/pipline.png"/>
 </div>
+
+##
+##
+##
 **The tool is developed by Xingyi Liu, for questions and comments please contact email--liuxingyisw@outlook.com**
