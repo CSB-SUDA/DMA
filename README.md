@@ -12,6 +12,7 @@ The network weighted process under different conditions is shown in the followin
 <div align=center>
   <img width="500" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/weightedNetwork.png"/>
 </div>
+<p align=center>The construction flow of weighted network under different conditions</p>
 
 <div align=center>
   <img width="800" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/twonetwork.png"/>
