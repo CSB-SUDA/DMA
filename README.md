@@ -14,9 +14,11 @@ The network weighted process under different conditions is shown in the followin
 </div>
 <p align=center>The construction flow of weighted network under different conditions</p>
 
+Due to the strengthening and weakening of the interaction in the network, the module division of the network changes
 <div align=center>
   <img width="800" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/twonetwork.png"/>
 </div>
+<p align=center>Division of weighted network modules.</p>
 
 <div align=center>
   <img width="400" src="https://github.com/CSB-SUDA/DMA/blob/main/picture/changeDetail.png"/>
