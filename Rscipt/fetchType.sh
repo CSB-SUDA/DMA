@@ -1,0 +1,1 @@
+cat gencode.v22.annotation.gtf |grep -P "\tgene\t"| cut -f 9 | awk -F ";" '{match($0,/gene_id \"[^;]*?/,a);match($0,/gene_type \"[^;]*?/,b);match($0,/gene_name \"[^;]*?/,c);print a[0] ";" b[0] ";" c[0]}' | awk -F '"' '{print $2","$4","$6}' | sort | uniq > protein_coding_genecode_v22.csv
