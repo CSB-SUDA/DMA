@@ -3,9 +3,11 @@ Identifying Lymph Node Metastasis-related Factors in Breast Cancer using Differe
 ## how to use code
 This code repository is all the R language scripts used for analysis.
 ```{r, eval = FALSE}
+
 section-ID. bash fetchType.sh [Required packages] (The input file [from]) (output-file-ID:The output file[annotation])
 
-parameters:
+There requires preparing things, inputs and outputs before,Them "bash fetchType.sh":
+
 Required packages:Executing code requires a pre-prepared environment.
 from: NEW/section-ID.output-file-ID NEW:Data that needs to be downloaded, or data that is generated;x.x:The section ID that produces the data.
 The input file:Documents that need to be prepared.
