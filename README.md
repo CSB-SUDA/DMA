@@ -2,6 +2,7 @@
 Identifying Lymph Node Metastasis-related Factors in Breast Cancer using Differential Modular and Mutational Structural Analysis.
 ## how to use code
 This code repository is all the R language scripts used for analysis.
+```{r, eval = FALSE}
 section-ID. bash fetchType.sh [Required packages] (The input file [from]) (output-file-ID:The output file[annotation])
 
 parameters:
@@ -193,7 +194,7 @@ Files that need to be downloaded:
 
 This is the code for the main result of Fig1-4.
 Please contact the liuxingyisw@outlook.com if you have any questions.
-
+```
 ##Brief introduction
 In this project, we focused on the rewiring of the co-expression network of differential genes under different conditions (lymph node metastases and groups without lymph node metastases). We compared the network at the level of modules, interactions and nodes, and used date hub and the interactions highlighted by differetial module analysis to identify the core dynamic structure of the network.
 
