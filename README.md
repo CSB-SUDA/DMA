@@ -6,12 +6,12 @@ This code repository is all the R language scripts used for analysis.
 
 section-ID. bash fetchType.sh [Required packages] (The input file [from]) (output-file-ID:The output file[annotation])
 
-There requires preparing things, inputfile befor.Then executing "bash fetchType.sh".finally, you will get outputfile.:
+There require to prepare programming environment, inputfile before.Then executing "bash fetchType.sh".finally, you will get outputfile.:
 
 Required packages:Executing code requires a pre-prepared environment.
 from: NEW/section-ID.output-file-ID NEW:Data that needs to be downloaded, or data that is generated;x.x:The section ID that produces the data.
 The input file:Documents that need to be prepared.
-The output file:The file that the script outputs.
+The output file:Documents that the script outputs.
 
 Files that need to be downloaded:
 * gencode.v22.annotation.gtf.gz:https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_22/gencode.v22.chr_patch_hapl_scaff.annotation.gtf.gz
