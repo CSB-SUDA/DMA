@@ -6,7 +6,7 @@ This code repository is all the R language scripts used for analysis.
 
 section-ID. bash fetchType.sh [Required packages] (The input file [from]) (output-file-ID:The output file[annotation])
 
-There requires preparing things, inputs and outputs before,Them "bash fetchType.sh":
+There requires preparing things, inputfile befor.Then executing "bash fetchType.sh".finally, you will get outputfile.:
 
 Required packages:Executing code requires a pre-prepared environment.
 from: NEW/section-ID.output-file-ID NEW:Data that needs to be downloaded, or data that is generated;x.x:The section ID that produces the data.
