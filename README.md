@@ -202,6 +202,7 @@ Please contact the liuxingyisw@outlook.com if you have any questions.
 
 In this project, we focused on the rewiring of the co-expression network of differential genes under different conditions (lymph node metastases and groups without lymph node metastases). We compared the network at the level of modules, interactions and nodes, and used date hub and the interactions highlighted by differetial module analysis to identify the core dynamic structure of the network.
 
+![frank](https://github.com/CSB-SUDA/DMA/blob/main/picture/image.png "Outline")
 cite us：Liu X, Yang B, Huang X, Yan W, Zhang Y, Hu G. Identifying Lymph Node Metastasis-Related Factors in Breast Cancer Using Differential Modular and Mutational Structural Analysis. Interdiscip Sci. 2023 Apr 28. doi: 10.1007/s12539-023-00568-w. Epub ahead of print. PMID: 37115388.
 
 **The R scripts is developed by Xingyi Liu, for questions and comments please contact email--liuxingyisw@outlook.com**
